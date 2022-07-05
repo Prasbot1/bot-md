@@ -5,7 +5,7 @@ global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
 ['6289666747744', 'PraszTAMPAN', true],
-['6289666747744, 'Xyuzi-MD ⁴⁰⁴-ﾉ [BOT MD]', true]
+['6282140373458', 'Raxcel-MD ⁴⁰⁴-ﾉ [BOT MD]'
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'

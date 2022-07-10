@@ -7,19 +7,6 @@ global.kontak = [
 ['6289666747744', 'PraszTAMPAN', true],
 ['6282140373458', 'Raxcel-MD ⁴⁰⁴-ﾉ [BOT MD]'
 ]
-global.APIs = { // API Prefix
-  // name: 'https://website'
-  nrtm: 'https://nurutomo.herokuapp.com',
-  bg: 'http://bochil.ddns.net',
-  xteam: 'https://api.xteam.xyz',
-  zahir: 'https://zahirr-web.herokuapp.com',
-  zeks: 'https://api.zeks.me',
-  pencarikode: 'https://pencarikode.xyz',
-  LeysCoder: 'https://leyscoders-api.herokuapp.com',
-  neoxr: 'https://api.neoxr.eu.org',
-  amel: 'https://melcanz.com',
-  hardianto: 'https://hardianto.xyz',
-  lol: 'https://api.lolhuman.xyz'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'

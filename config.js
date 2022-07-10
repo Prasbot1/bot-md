@@ -7,18 +7,7 @@ global.kontak = [
 ['6289666747744', 'PraszTAMPAN', true],
 ['6282140373458', 'Raxcel-MD ⁴⁰⁴-ﾉ [BOT MD]'
 ]
-}
-global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
-  'https://api.neoxr.eu.org': 'yntkts',
-  'https://api.xteam.xyz': 'Apikeys',
-  'https://melcanz.com': 'Apikeys',
-  'https://api.lolhuman.xyz': 'Apikeys',
-  'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'apivinz',
-  'https://pencarikode.xyz': 'pais',
-  'https://hardianto.xyz': 'hardianto',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+': 'dappakntlll'
 }
 
 global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 PRASz.tampan'

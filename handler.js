@@ -658,8 +658,8 @@ module.exports = {
                                 namegb: await this.getName(id),
                                 member: groupMetadata.participants.length
                             })
-                            /*await this.send3TemplateButtonImg(id, action === 'add' ? wel : lea, text, wm, action === 'add' ? 'selamat datang' : 'sampai jumpa', action === 'add' ? '.intro' : 'FokusID')*/
-   await conn.sendButtonDoc(id, text, wm, action == 'add' ? 'selamat datang' : 'sampai jumpa', action === 'add' ? '.intro' : 'the.sad.boy01', fkontak,{
+                            /*await this.send3TemplateButtonImg(id, action === 'add' ? wel : lea, text, wm, action === 'add' ? 'Yahhh,Bebanya Nambah deh Selamat Join Wahai Beban' : 'Yuhu,Beban Out1 Beban Berkurang Kalo balik Lagi nitip seblakYa', action === 'add' ? '.intro' : 'FokusID')*/
+   await conn.sendButtonDoc(id, text, wm, action == 'add' ? 'Bagi Ayank Ke Owner dong Beban' : 'Nitip Seblak Yaa', action === 'add' ? '.intro' : 'the.sad.boy01', fkontak,{
   contextInfo: {mentionedJid: [user],
     externalAdReply :{
     mediaUrl: linkig,

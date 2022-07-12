@@ -7,7 +7,6 @@ global.kontak = [
 ['6289666747744', 'PraszTAMPAN', true],
 ['6282140373458', 'Raxcel-MD ⁴⁰⁴-ﾉ [BOT MD]'
 ]
-': 'dappakntlll'
 }
 
 global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 PRASz.tampan'
